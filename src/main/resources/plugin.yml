@@ -1,0 +1,7 @@
+name: SCHidePlugins
+version: '1.0'
+main: pl.stellarcode.sCHidePluginsBukkit.main
+api-version: '1.13'
+commands:
+  hideplugins:
+    description: glowna komenda hideplugins

@@ -1,0 +1,11 @@
+###################################################################
+# StellarCode.pl
+###################################################################
+# Wsparcie: dc.stellarcode.pl lub https://discord.gg/RKEfzywCEN
+###################################################################
+# Dokumentacja: https://docs.stellarcode.pl
+###################################################################
+wiadomosc:
+  BRAK_PERMISJI: "&cNie masz permisji!"
+zablokowane-komendy:
+  komendy: ["pl", "about", "version", "ver", "plugins", "minecraft:pl", "minecraft:plugins", "minecraft:about", "minecraft:version", "minecraft:ver", "bukkit:ver", "bukkit:version", "?", "bukkit:?"]
